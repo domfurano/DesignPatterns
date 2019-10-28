@@ -2,7 +2,7 @@ package com.dom.behavioral.interpreter.example.demo;
 
 public class InterpreterDemo {
 
-    static Expression buildInterpreterTree() {
+    private static Expression buildInterpreterTree() {
         Expression terminal1 = new TerminalExpression("Lions");
         Expression terminal2 = new TerminalExpression("Tigers");
         Expression terminal3 = new TerminalExpression("Bears");

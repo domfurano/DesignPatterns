@@ -1,4 +1,4 @@
-package com.dom.behavioral.strategy.demo;
+package com.dom.behavioral.strategy.comparatordemo;
 
 public class Person {
 
