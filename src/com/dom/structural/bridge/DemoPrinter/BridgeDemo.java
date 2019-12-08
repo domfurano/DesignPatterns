@@ -1,6 +1,5 @@
 package com.dom.structural.bridge.DemoPrinter;
 
-import com.sun.deploy.net.protocol.chrome.ChromeURLConnection;
 
 import java.io.IOException;
 
