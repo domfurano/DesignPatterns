@@ -1,4 +1,4 @@
-package com.dom.behavioral.ChainOfResponsibility;
+package com.dom.behavioral.chainofresponsibility;
 
 import java.util.logging.ConsoleHandler;
 import java.util.logging.Level;

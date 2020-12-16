@@ -1,4 +1,4 @@
-package com.dom.behavioral.interpreter.example.demo;
+package com.dom.behavioral.interpreter.demo;
 
 public class AndExpression implements Expression {
 

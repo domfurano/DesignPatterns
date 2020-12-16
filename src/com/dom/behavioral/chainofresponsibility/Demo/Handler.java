@@ -1,4 +1,4 @@
-package com.dom.behavioral.ChainOfResponsibility.Demo;
+package com.dom.behavioral.chainofresponsibility.Demo;
 
 public abstract class Handler {
     Handler successor;
